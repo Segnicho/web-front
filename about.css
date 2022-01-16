@@ -1,0 +1,7 @@
+.container{
+    display: inline;
+}
+div img{
+    height: 50%;
+    width: 50%;
+}
